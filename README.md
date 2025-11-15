@@ -44,6 +44,7 @@ git pull
 
 ![Создание файла](screenshots/2.jpg)
 ![Коммит файла](screenshots/3.jpg)
+![Pull](screenshots/4.jpg)
 
 ---
 # 5. Получить историю операций для каждой из веток
